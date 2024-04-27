@@ -27,6 +27,7 @@ python clipboard_to_tts.py
 ```
 
 Alternatively, you can create a single-file executable with PyInstaller for easier distribution and execution.
+To streamline your workflow, consider integrating Clipboard-to-TTS with key bindings on your system. This allows you to quickly trigger the script to read the content of your clipboard and play it as speech with just a keystroke.
 
 ### Note:
 Please ensure that mpg123 is installed on your system, as it is required for playing back the generated speech audio. You can install mpg123 using your package manager or by visiting the official website: https://www.mpg123.de/.
